@@ -1,0 +1,2 @@
+# XGBoostToPredictPowerLoad
+利用XGBoost集成学习算法预测电力负荷
